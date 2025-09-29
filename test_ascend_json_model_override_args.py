@@ -56,7 +56,7 @@ class TestJsonModelOverrideArgs(CustomTestCase):
                 },
             },
         )
-      pritn(reponse.json()) 
+      print(reponse.json()) 
         # self.assertEqual(response.status_code, 200)
         # self.assertIn("Paris", response.text)
 
